@@ -2,7 +2,7 @@
 
 *June 1-4*
 
-![A mid-20th-century computer and two operators](media/Eniac.jpg)
+![A mid-20th-century computer and two operators](../media/Eniac.jpg)
 
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
