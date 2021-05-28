@@ -1,6 +1,9 @@
-# Week 1: June 1-4
-*Introduction to Digital Scholarship*
-NB: this schedule is subject to change
+# Week 1: Introduction to Digital Scholarship
+
+*June 1-4*
+
+![A mid-20th-century computer and two operators](media/Eniac.jpg)
+
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
@@ -100,5 +103,7 @@ With DT Interns, Zoom and Moodle
 ### 4:00 PM Week Wrap-up (Stella)
 
 ---
+
+**NB**: this schedule is subject to change
 
 [Next week >>>]
