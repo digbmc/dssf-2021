@@ -9,32 +9,34 @@ June 1, 2021
 
 ### 9:00 AM - meet outside Carpenter Library
 
-#### Introductions & Ice-breaker
-- Introductions and ice-breaker
-- Fellowship overview
+- Introductions and ice-breaker (Stella)
+- Fellowship overview (Stella)
 - Timesheets procedures
-- Platforms & communication: Microsoft Teams
-- Community expectations
+- Platforms & communication: Microsoft Teams (Rosemarie)
+- Community expectations discussion (Alice & everyone)
 
 ### 12:00 PM Lunch (on your own)
 
-### 1:00 PM What is Digital Scholarship?
+### 1:00 PM What is Digital Scholarship? (Alice)
 [Presentation slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBxhrc9PtVGid3OjvJuheKMQ?e=xfvPWi)
 
 ### 2:00 PM Introduction to the Command Line
+- Download & install [VS Code](https://code.visualstudio.com/) text editor
 - [Command Line tutorial](https://github.com/tri-cods/command-line)
 - If you have extra time, play [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
-### 4:00 PM Reflect and discuss
+### 4:00 PM Reflections
+- Write a log entry for today: what was difficult? What was easy?
+
+---
 
 ## Wednesday
 June 2, 2021
 
 ### 9:00 AM - check-in
-Watch [How Computers Work videos](https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-introducing-how-computers-work)
+Watch & discuss [How Computers Work videos](https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-introducing-how-computers-work)
 
-### 10:00 AM - Project Management Workshop
-Jenny Spohrer and Mari Ocando-Finol
+### 10:00 AM - Project Management Workshop with Jenny Spohrer & Mari Ocando-Finol
 With Digital Tech interns (via Zoom)
 
 ### 12:00 PM Lunch (on your own)
@@ -45,10 +47,13 @@ With Digital Tech interns (via Zoom)
 
 ### 2:30 PM Break
 
-### 2:45 PM Python
-Adapting and troubleshooting
+### 2:45 PM Python - continue tutorial
+- Adapting and troubleshooting
+- Practice projects
 
 ### 4:30 Reflections
+
+---
 
 ## Thursday
 June 3, 2021
@@ -61,17 +66,21 @@ Carpenter
 ### 12:00 PM Lunch - Staff Get-Together
 Activities and take-away lunch at Sunken Garden
 
-### 1:00 PM Project Meeting
+### 1:00 PM College News Project Kickoff Meeting
+- Discuss project proposal
+- Concerns, values, and goals for project
+- Brainstorming components
 
-### 2:30 PM Exploring Digital Collections
-Rosemarie Fettig
+### 2:30 PM Exploring Digital Collections (Rosemarie)
 
 ### 4:30 Reflections
+
+---
 
 ## Friday
 June 4, 2021
 
-*Remote all day*
+*Remote all day; Alice out in PM*
 
 ### 9:00 AM Teams check-in
 
@@ -82,15 +91,14 @@ June 4, 2021
 
 ### 12:00 PM Lunch
 
-*Alice out in PM*
+### 1:00 PM Digital Competencies Workshop with Chris Boyland
+With DT Interns, Zoom and Moodle
 
-### 1:00 PM Digital Competencies
-Chris Boyland, with DT Interns
-
-### 2:30 PM Python tutorials (on your own)
+### 2:30 PM Python tutorials (Stella)
 - Locating learning resources, useful modules, etc.
 
-### 4:00 PM Week Wrap-up
-Stella Fritzell
+### 4:00 PM Week Wrap-up (Stella)
 
-[Next week >>>](/02-data.md)
+---
+
+[Next week >>>]

@@ -6,11 +6,11 @@ The Digital Scholarship Summer Fellows program is a paid, full-time summer inter
 
 [Alice McGrath](mailto:amcgrath1@brynmawr.edu) - Program director
 
-[Stella Fritzell](mailto:sfritzell@brynmawr.edu) - Digital Scholarship Graduate Assistant
+[Stella Fritzell](mailto:sfritzell@brynmawr.edu) - Project Manager and Digital Scholarship Graduate Assistant
 
 [Rosemarie Fettig](mailto:rfettig@brynmawr.edu) - EaST Assistant
 
-[Molly Kuchler](mailto:mkuchler@brynmawr.edu) Digital Scholarship Graduate Assistant
+[Molly Kuchler](mailto:mkuchler@brynmawr.edu) - Digital Scholarship Graduate Assistant
 
 ## Project: Text Mining the *The College News*
 The digital collection of *The College News*, a Bryn Mawr student publication that ran from 1914 to 1968, offers a rich resource for studying college history over a crucial period of social change. This project seeks to explore that history at scale by analyzing the College News collection as a dataset, using computational text analysis, randomized reading, and critical data visualization. By quickly extracting names, places, terms, and ideas from a large body of text, computational methods can help reveal unexpected patterns and surface marginalized histories that can help our community understand and reckon with our past.
