@@ -16,12 +16,15 @@ June 1, 2021
 - Fellowship overview (Stella)
 - Timesheets procedures
 - Platforms & communication: Microsoft Teams (Rosemarie)
+- Introduction to the College News project (Alice)
 - Community expectations discussion (Alice & everyone)
+
 
 ### 12:00 PM Lunch (on your own)
 
 ### 1:00 PM What is Digital Scholarship? (Alice)
 [Presentation slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EZMYcvVDa0pGid-DiYQf90gBxhrc9PtVGid3OjvJuheKMQ?e=xfvPWi)
+
 
 ### 2:00 PM Introduction to the Command Line
 - Download & install [VS Code](https://code.visualstudio.com/) text editor
@@ -29,8 +32,11 @@ June 1, 2021
 - If you have extra time, play [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 
 ### 4:00 PM Reflections
-- Write a log entry for today: what was difficult? What was easy?
+Write a log entry for today:
+- What are you most excited about in this program or project?
+- What are you most concerned about?
 
+Please submit a response to this [questionnaire](https://forms.office.com/r/htmmUpRGvf)
 ---
 
 ## Wednesday
