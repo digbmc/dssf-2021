@@ -72,7 +72,7 @@ Carpenter
 
 ### 9:30 Python - regular expressions
 - (Complete [DHRI tutorial](https://github.com/DHRI-Curriculum/python) if unfinished)
-- Follow [Python for DH Lessons 12-15](https://pythonhumanities.com/python-for-dh-course/) to learn about working with text data
+- Practice using regex to explore text data with [Automate the Boring Stuff](https://automatetheboringstuff.com/2e/chapter7/)
 
 ### 12:00 PM Lunch - Staff Get-Together
 Activities and take-away lunch at Sunken Garden
