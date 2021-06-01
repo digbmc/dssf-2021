@@ -51,8 +51,8 @@ With Digital Tech interns (via Zoom)
 ### 12:00 PM Lunch (on your own)
 
 ### 1:00 PM Introduction to Python
-[Installation instructions]
-[Tutorial]
+- Install Python3 from [python.org](https://www.python.org/downloads/)
+- Explore Python with the DHRI [Tutorial](https://github.com/DHRI-Curriculum/python)
 
 ### 2:30 PM Break
 
