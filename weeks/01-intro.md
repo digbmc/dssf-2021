@@ -87,6 +87,7 @@ Activities and take-away lunch at Sunken Garden
 - Brainstorming components
 
 ### 2:30 PM Exploring Digital Collections (Rosemarie)
+[Presentation slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/rfettig_brynmawr_edu/ERo7K7VKYYhPuaFex5LG1cYBpknCCVe4U_rIzkbTvkBJxg?e=Vx0W67)
 
 ### 4:30 Reflections
 
