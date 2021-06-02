@@ -46,17 +46,20 @@ June 2, 2021
 Watch & discuss [How Computers Work videos](https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-introducing-how-computers-work)
 
 ### 10:00 AM - Project Management Workshop with Jenny Spohrer & Mari Ocando-Finol
-With Digital Tech interns (via Zoom)
+With Digital Tech interns (via Zoom; link in Outlook invitation)
 
 ### 12:00 PM Lunch (on your own)
 
-### 1:00 PM Introduction to Python
-- Install Python3 from [python.org](https://www.python.org/downloads/)
-- Explore Python with the [DHRI tutorial](https://github.com/DHRI-Curriculum/python)
-
+### 1:00 PM Command Line Continued
+- If you have extra time, play [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+  
 ### 2:30 PM Break
 
-### 2:45 PM Python - continue tutorial
+### 3:00 PM Beginning python
+
+[Getting started with Python](../resources/python.md)
+- Explore Python with the [DHRI tutorial](https://github.com/DHRI-Curriculum/python)
+
 - Adapting and troubleshooting
 - Practice projects
 
@@ -115,4 +118,4 @@ With DT Interns, Zoom and Moodle
 
 **NB**: this schedule is subject to change
 
-[Next week >>>]
+[Next week >>>](02-data.md)
