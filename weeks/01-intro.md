@@ -51,8 +51,8 @@ With Digital Tech interns (via Zoom)
 ### 12:00 PM Lunch (on your own)
 
 ### 1:00 PM Introduction to Python
-[Installation instructions]
-[Tutorial]
+- Install Python3 from [python.org](https://www.python.org/downloads/)
+- Explore Python with the [DHRI tutorial](https://github.com/DHRI-Curriculum/python)
 
 ### 2:30 PM Break
 
@@ -71,6 +71,9 @@ Carpenter
 ### 9:00 Check-in
 
 ### 9:30 Python - regular expressions
+- (Complete [DHRI tutorial](https://github.com/DHRI-Curriculum/python) if unfinished)
+- Practice using regex to explore text data with [Automate the Boring Stuff](https://automatetheboringstuff.com/2e/chapter7/)
+- Additional regex tutorials: [Python for DH lessons 12-15](https://pythonhumanities.com/python-for-dh-course/) and [W3](https://www.w3schools.com/python/python_regex.asp)
 
 ### 12:00 PM Lunch - Staff Get-Together
 Activities and take-away lunch at Sunken Garden
