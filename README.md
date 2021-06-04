@@ -19,7 +19,7 @@ The digital collection of *The College News*, a Bryn Mawr student publication th
 
 ### Week 1 (June 1-4) [Introduction to Digital Scholarship](weeks/01-intro.md)
 
-### Week 2 (June 7-11) [Collections & Data]
+### Week 2 (June 7-11) [Collections & Data](weeks/02-data.md)
 
 ### Week 3 (June 14-18) [Text analysis & machine learning]
 
@@ -27,7 +27,7 @@ The digital collection of *The College News*, a Bryn Mawr student publication th
 
 ### Week 5 (June 28-July 2) [Web Design & Publishing]
 
-### Week 6 (July 5-9) [Mapping & GIS]
+### Week 6 (July 6-9) [Mapping & GIS]
 
 ### Week 7 (July 12-16) [Digital archives & exhibitions]
 

@@ -37,6 +37,7 @@ Write a log entry for today:
 - What are you most concerned about?
 
 Please submit a response to this [questionnaire](https://forms.office.com/r/htmmUpRGvf)
+
 ---
 
 ## Wednesday
@@ -78,11 +79,11 @@ Carpenter
 - Practice using regex to explore text data with [Automate the Boring Stuff](https://automatetheboringstuff.com/2e/chapter7/)
 - Additional regex tutorials: [Python for DH lessons 12-15](https://pythonhumanities.com/python-for-dh-course/) and [W3](https://www.w3schools.com/python/python_regex.asp)
 
-### 12:00 PM Lunch - Staff Get-Together
-Activities and take-away lunch at Sunken Garden
+### 12:00 PM Lunch  on your own
+- Staff Get-Together postponed to 3/10
 
 ### 1:00 PM College News Project Kickoff Meeting
-- Discuss project proposal
+- Discuss project proposal & start drafting charter
 - Concerns, values, and goals for project
 - Brainstorming components
 

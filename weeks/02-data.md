@@ -24,14 +24,19 @@ With ETS Interns: via Zoom (link in outlook invitation)
 ---
 
 ## Wednesday
-?
+Remote
 
 ### 10:00 Intro to BMC Archives - Allison Mills, College Archivist
+On Zoom (link in invite)
 
 ---
 
 ## Thursday
 Carpenter
+
+### 12:00 PM Lunch - Staff Get-Together
+Activities and take-away lunch at Sunken Garden
+
 
 ### Time TBD Voyant & Distant Reading - Thu Ta, Digital Scholarship Graduate Assistant
 
