@@ -88,6 +88,8 @@ Carpenter
 - Brainstorming components
 
 ### 2:30 PM Exploring Digital Collections (Rosemarie)
+- [Presentation slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/rfettig_brynmawr_edu/ERo7K7VKYYhPuaFex5LG1cYBpknCCVe4U_rIzkbTvkBJxg?e=Vx0W67)
+- [Digital Collections orientation video by Natalie Shilstut](https://brynmawr.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=232b27c1-8c54-445d-a23a-ad3b01253094) 
 
 ### 4:30 Reflections
 

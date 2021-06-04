@@ -10,4 +10,4 @@
 
 
 ## Additional Resources
-Install Python3 from [python.org](https://www.python.org/downloads/
+Install Python3 from [python.org](https://www.python.org/downloads/)
