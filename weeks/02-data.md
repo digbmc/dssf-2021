@@ -23,8 +23,11 @@ Carpenter
 ## Tuesday
 Carpenter
 
-## AM - Data Cleaning with OpenRefine
+### AM - Data Cleaning with OpenRefine Tutorial
 [Tidy Data Tutorial](https://github.com/tri-cods/tidy-data)
+
+### 10:20 - one-on-one meetings with Alice
+10:20, 10:40, 11:00, 11:20, 11:40
 
 ### On your own
 - [ ] Watch [VS Code Tutorials](https://code.visualstudio.com/docs/introvideos/basics) & review documentation on configuring VS Code for Python (optional, but recommended)
@@ -45,8 +48,8 @@ Remote
 ### 10:00 Intro to BMC Archives - Allison Mills, College Archivist
 On Zoom (link in invite)
 
-### Python: Web Scraping (continued)
-- beautiful soup
+### Python: Web Scraping
+
 
 ---
 
@@ -54,6 +57,8 @@ On Zoom (link in invite)
 Carpenter
 
 ### AM - continue work on web scraping
+
+### 11:00 Project Meeting
 
 ### 12:00 PM Lunch - Staff Get-Together
 Activities and take-away lunch at Sunken Garden
