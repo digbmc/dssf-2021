@@ -18,8 +18,6 @@ Carpenter
 - In groups: drafing sections of the project charter
 
 
-
-
 ---
 
 ## Tuesday
@@ -36,6 +34,7 @@ Carpenter
 ### 2:00 PM - HTML & CSS - Alice 
 With ETS Interns: via Zoom (link in outlook invitation)
 
+*Stella out AM*
 
 
 ---
@@ -46,22 +45,38 @@ Remote
 ### 10:00 Intro to BMC Archives - Allison Mills, College Archivist
 On Zoom (link in invite)
 
+### Python: Web Scraping (continued)
+- beautiful soup
+
 ---
 
 ## Thursday
 Carpenter
 
+### AM - continue work on web scraping
+
 ### 12:00 PM Lunch - Staff Get-Together
 Activities and take-away lunch at Sunken Garden
 
-
 ### 1:00 PM Data Visualization with Palladio - Molly Kuchler, DS Grad Fellow
 
-
+*Alice out in PM*
 ---
 
 ## Friday
 Remote
+
+### 9:00 Teams Video Check-in
+
+### On your own
+- Web scraping: continue
+- If time: Text Data with Voyant & Data Basic
+
+### 1:00 DigiComp Discussion - Chris Boyland
+
+### 4:30 Check-in (Molly)
+
+**Alice out in PM**
 
 ---
 
