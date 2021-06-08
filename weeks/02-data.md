@@ -60,7 +60,7 @@ On Zoom (link in invite)
 ---
 
 ## Thursday
-Carpenter
+Dalton 119
 
 ### AM - continue work on web scraping
 
