@@ -30,12 +30,18 @@ Carpenter
 10:20, 10:40, 11:00, 11:20, 11:40
 
 ### On your own
+- [ ] Prepare for HTML & CSS Workshop
+  - [ ] Watch [What is the Internet videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+  - [ ] Make sure you have a web browser with source-code features such as [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) or Google Chrome.
 - [ ] Watch [VS Code Tutorials](https://code.visualstudio.com/docs/introvideos/basics) & review documentation on configuring VS Code for Python (optional, but recommended)
 - [ ] Continue Python tutorials
 - [ ] Read: [Lauren Klein and Catherine D'Ignazio, "Introduction: Why Data Science Needs Feminism," *Data Feminism* (2020)](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/4)
 
 ### 2:00 PM - HTML & CSS - Alice 
 With ETS Interns: via Zoom (link in outlook invitation)
+
+[HTML & CSS Tutorial](https://github.com/tri-cods/html-css)
+
 
 *Stella out AM*
 
