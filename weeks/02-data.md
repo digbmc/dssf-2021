@@ -51,10 +51,14 @@ With ETS Interns: via Zoom (link in outlook invitation)
 ## Wednesday
 Remote
 
+### 9:00 Teams Video Check-in
+
 ### 10:00 Intro to BMC Archives - Allison Mills, College Archivist
 On Zoom (link in invite)
 
 ### Python: Web Scraping
+
+### 4:30 PM Teams Video Check-in
 
 
 ---
