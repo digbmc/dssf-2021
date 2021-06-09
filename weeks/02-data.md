@@ -49,7 +49,7 @@ With ETS Interns: via Zoom (link in outlook invitation)
 ---
 
 ## Wednesday
-Remote
+Remote or in Dalton 119
 
 ### 10:00 Intro to BMC Archives - Allison Mills, College Archivist
 On Zoom (link in invite)
@@ -60,7 +60,7 @@ On Zoom (link in invite)
 ---
 
 ## Thursday
-Carpenter
+**Meet in Dalton 119**
 
 ### AM - continue work on web scraping
 
@@ -75,7 +75,7 @@ Activities and take-away lunch at Sunken Garden
 ---
 
 ## Friday
-Remote
+Remote or in Dalton 119
 
 ### 9:00 Teams Video Check-in
 
