@@ -74,6 +74,8 @@ Think about:
 - What metadata exists for each item?  Do you think that some types of metadata will be more important than others for our project?
 - If we wanted to download or make a record of each College News item in digital collections using Python, how might we go about doing this? (Start small - thinking about what is needed for just one item - and then expand).
 
+Write your observations in your log.
+
 ### 4:30 PM Teams Video Check-in
 
 
@@ -82,9 +84,12 @@ Think about:
 ## Thursday
 **Meet in Dalton 119**
 
-### AM - continue work on web scraping
+### AM - Python + web scraping
+- Continue and review tutorials
+- Pseudocode for College News scraping
 
 ### 11:00 Project Meeting
+- Reviewing project charter
 
 ### 12:00 PM Lunch - Staff Get-Together
 Activities and take-away lunch at Sunken Garden
@@ -95,7 +100,7 @@ Activities and take-away lunch at Sunken Garden
 ---
 
 ## Friday
-Remote or in Dalton 119
+Remote
 
 ### 9:00 Teams Video Check-in
 
@@ -111,6 +116,13 @@ Remote or in Dalton 119
 
 ---
 
+## Week Tasks
+
+- [ ] Watch [What is the Internet videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+- [ ] Complete Python for DH video tutorials 12-15 on regular expressions and working with text
+- [ ] Read: [Lauren Klein and Catherine D'Ignazio, "Introduction: Why Data Science Needs Feminism," *Data Feminism* (2020)](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/4)
+- [ ] Review College History projects and guide to college history research
+- [ ] Complete Programming Historian tutorials (Websites, Beautiful Soup; query strings is optional)
 
 
 [<<< Last week](01-intro.md) [Next week >>>](03-text.md)
