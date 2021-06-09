@@ -53,10 +53,26 @@ Remote
 
 ### 9:00 Teams Video Check-in
 
+### On your own
+- Look over [Bryn Mawr History Projects](https://www.brynmawr.edu/about/history/bryn-mawr-history-projects), some of which have DSSF ties!
+  - The 2017 cohort produced a [data visualization](https://digitalscholarship.brynmawr.edu/dssf17/index.html) of the [College Women](https://collegewomen.org/about) project
+  - The 2018 cohort worked on the [Women in Science](https://digitalscholarship.brynmawr.edu/howis/) project
+  - The 2020 cohort  worked on the ['24 '31 Students Study Race](https://digitalscholarship.brynmawr.edu/howis/) project
+- Familiarize yourself with the [Bryn Mawr College Histories Research Guide](https://guides.tricolib.brynmawr.edu/c.php?g=959561)
+
 ### 10:00 Intro to BMC Archives - Allison Mills, College Archivist
 On Zoom (link in invite)
 
-### Python: Web Scraping
+### PM - Python: Web Scraping
+Where possible, adapt the exercises in these tutorials to explore and manipulate The College News data.
+- [Downloading web pages with Python](https://programminghistorian.org/en/lessons/working-with-web-pages)
+- [Downloading using query strings](https://programminghistorian.org/en/lessons/downloading-multiple-records-using-query-strings)
+- [Intro to the Beautiful Soup library](https://programminghistorian.org/en/lessons/intro-to-beautiful-soup)
+
+Think about:
+- How are [College News](https://digitalcollections.tricolib.brynmawr.edu/collections/bryn-mawr-college-news) entries recorded in the digital collections? What is the page "architecture" for each entry?
+- What metadata exists for each item?  Do you think that some types of metadata will be more important than others for our project?
+- If we wanted to download or make a record of each College News item in digital collections using Python, how might we go about doing this? (Start small - thinking about what is needed for just one item - and then expand).
 
 ### 4:30 PM Teams Video Check-in
 
