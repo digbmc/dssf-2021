@@ -33,13 +33,14 @@ Carpenter
 - What information and tools can we use to get it?
 - Problem-solving
 
-## PM
+### PM: on your own 
 
-### Intro to Text Analysis
+#### Intro to Text Analysis
 - Read through ["Text Analysis: More than Just Words", Kirsten Bussiere](https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/)
-- Complete exercises using [Voyant Tools](https://voyant-tools.org/) - export 1 visualization that you'd like to explain.
+- Complete exercises using [Voyant Tools](https://voyant-tools.org/) - 
+- Choose one Voyant visualization that you find interesting: export an image and add it to your log
 
-### Reading/viewing
+#### Reading/viewing/listening to resources on AI & bias in technology
 
 *Alice out in PM*
 
