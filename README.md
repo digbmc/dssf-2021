@@ -21,7 +21,7 @@ The digital collection of *The College News*, a Bryn Mawr student publication th
 
 ### Week 2 (June 7-11) [Collections & Data](weeks/02-data.md)
 
-### Week 3 (June 14-18) [Text analysis & machine learning]
+### Week 3 (June 14-18) [Text analysis & machine learning](weeks/03-text.md)
 
 ### Week 4 (June 21-25) [Design & making]
 

@@ -19,8 +19,8 @@
 ## Week 3 (June 14-18) [Text analysis & machine learning](weeks/03-text.md)
 
 - Distant Reading with Voyant
-- Bias and ethics in AI
-- Natural Language Processing with NLTK
+- Natural Language Processing with NLTK & Spacy
+- Bias and Ethics in AI
 
 ## Week 4 (June 21-25) [Design & making]
 - Graphic design
