@@ -51,15 +51,14 @@ Carpenter
 ## Tuesday
 Carpenter
 
-### AM: project work
+### AM: project work - web scraping
 
 **Fill out your Timesheets and send to Stella by 12:00 PM**
 
 ### 11:00 Full-team Project Meeting 
 Via Teams
 
-### PM: Text Analysis: NLTK
-[Workshop: Introduction to Text Analysis with Python and NLTK](https://curriculum.dhinstitutes.org/workshops/text-analysis/)
+
 
 ---
 
@@ -68,7 +67,8 @@ Remote
 
 ### On your own
 - [ ] Work on individual project proposals
-- [ ] Exploring corpus data
+- [ ] Explore corpus data
+- [ ] Add ideas to the Brainstorming Document
 
 
 ---
@@ -76,15 +76,30 @@ Remote
 ## Thursday
 Carpenter
 
-### AM: Discussion of Bias in AI
+### 9:00 Check-in
 
-### Named Entity Recognition using Spacy
-[Workbook & video tutorials](http://ner.pythonhumanities.com/intro.html)
+### [Natural Language Toolkit Workshop](https://curriculum.dhinstitutes.org/workshops/text-analysis/)
 
-### 1:00 Project Check-in
+1. Set up with Jupyter Notebooks for workshop - standard interface
+   1. In terminal, navigate to your folder for python practice
+   2. Create a new folder and call it `nltk`
+   3. Launch the jupyter notebook browser interface:  `jupyter notebook`
+   4. Create a new python3 notebook (use the 'new' button's dropdown menu) & give it a name like "intro-nltk" 
+2. Take a look at [this Jupyter Notebooks overview](https://curriculum.dhinstitutes.org/insights/short-introduction-to-jupyter-notebooks/) to get familiar with the platform
+   -  **NB** the instructions for opening a notebook are different because most of you don't have the Anaconda Navigator -- instead use my instructions above. 
+   -  If you prefer, you can instead create and use [jupyter notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
+3. Begin the tutorial on your own
+   1. Begin by reading & taking notes on the first few sections of [the workshop](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (sections 0-2), and complete the setup instructions in section 3.
+   2. If you have time and feel confident you may start section 4; we'll go through that together at 10:15.
 
-### PM: Work on project proposals
+### PM 
+- Finish tutorial
+- Use NLTK to explore project data
+- Add ideas to the Brainstorming Document
 
+### 3:00 Project Meeting
+- Project work next steps
+- Visualization and analysis ideas & methods
 
 ---
 
@@ -92,14 +107,19 @@ Carpenter
 
 Carpenter in AM, remote PM
 
+### 9 AM Discussion of Bias in AI
+
 ### 10-12 AM - Makerspace Workshop with Bronwen Densmore
 
 ### 1 PM - *Optional* Digital Competencies with Chris Boyland
 
 ### 5 PM - Post your proposal on Teams
 
+---
+
+[Other text analysis resources](../resources/text-analysis.md)
 
 ---
 
 
-[<<< Last week](/02-data.md) [Next week >>>]
+[<<< Last week](/02-data.md) [Next week >>>](/04-making.md)
