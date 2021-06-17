@@ -6,7 +6,7 @@
 
 ---
 
-## Monday, 6/21
+## Monday
 Carpenter
 
 ### AM  Exploration
@@ -16,7 +16,7 @@ Carpenter
 ### 12:00 PM  Lunch
 ---
 
-## Tuesday, 6/22
+## Tuesday
 Carpenter
 
 ### 11:00 AM  Project Meeting
@@ -24,14 +24,14 @@ Carpenter
 ### 1:00 PM  Graphic Design Module (Rosemarie)
 ---
 
-## Wednesday, 6/23
+## Wednesday
 Remote
 
 ### 9:00 AM Virtual Check-in
 
 ---
 
-## Thursday, 6/24
+## Thursday
 Carpenter
 
 ### 10:00 AM 1-on-1 Meetings (Alice)
@@ -40,7 +40,7 @@ Carpenter
 ### 3:00 PM  Project Meeting 
 ---
 
-## Friday, 6/25
+## Friday
 Remote
 
 ### 9:00 AM  Virtual Check-in
