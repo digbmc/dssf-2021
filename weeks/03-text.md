@@ -124,4 +124,4 @@ Carpenter in AM, remote PM
 ---
 
 
-[<<< Last week](/02-data.md) [Next week >>>](/04-making.md)
+[<<< Last week](/02-data.md) [Next week >>>](/04-design.md)
