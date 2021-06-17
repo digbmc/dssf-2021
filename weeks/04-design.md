@@ -9,6 +9,10 @@
 ## Monday, 6/21
 Carpenter
 
+### AM  Exploration
+- explore Digital Scholarship projects
+- try out different text-analysis methods
+
 ### 12:00 PM  Lunch
 ---
 
