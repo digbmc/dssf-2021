@@ -92,10 +92,12 @@ Carpenter
    1. Begin by reading & taking notes on the first few sections of [the workshop](https://curriculum.dhinstitutes.org/workshops/text-analysis/) (sections 0-2), and complete the setup instructions in section 3.
    2. If you have time and feel confident you may start section 4; we'll go through that together at 10:15.
 
-### PM 
+### PM
 - Finish tutorial
-- Use NLTK to explore project data
-- Add ideas to the Brainstorming Document
+- Use NLTK, Voyant and other [tools & resources](../resources/text-analysis.md) to explore project data
+- Add ideas to the Brainstorming Document:
+  - At least one idea for a full-corpus visualization
+  - At least one idea for a smaller scale visualization
 
 ### 3:00 Project Meeting
 - Project work next steps
