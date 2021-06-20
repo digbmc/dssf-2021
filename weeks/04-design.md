@@ -13,13 +13,13 @@ Carpenter
 - explore Digital Scholarship projects
 - try out different text-analysis methods
 
+### 11:00 AM  Project Meeting
 ### 12:00 PM  Lunch
 ---
 
 ## Tuesday
 Carpenter
 
-### 11:00 AM  Project Meeting
 ### 12:00 PM  Lunch
 ### 1:00 PM  Graphic Design Module (Rosemarie)
 ---
