@@ -22,7 +22,7 @@
 - Natural Language Processing with NLTK & Spacy
 - Bias and Ethics in AI
 
-## Week 4 (June 21-25) [Design & making]
+## Week 4 (June 21-25) [Design & making](weeks/04-design.md)
 - Graphic design
 - Data storytelling & visualization
 - Critical making
