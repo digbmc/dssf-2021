@@ -93,11 +93,11 @@ Carpenter
    2. If you have time and feel confident you may start section 4; we'll go through that together at 10:15.
 
 ### PM
-- Finish tutorial
+- Finish NLTK tutorial
 - Use NLTK, Voyant and other [tools & resources](../resources/text-analysis.md) to explore project data
 - Add ideas to the Brainstorming Document:
   - At least one idea for a full-corpus visualization
-  - At least one idea for a smaller scale visualization
+  - At least one other idea (other than your individual project)
 
 ### 3:00 Project Meeting
 - Project work next steps
@@ -114,6 +114,9 @@ Carpenter in AM, remote PM
 ### 10-12 AM - Makerspace Workshop with Bronwen Densmore
 
 ### 1 PM - *Optional* Digital Competencies with Chris Boyland
+
+### Afternoon: Individual Project Proposals
+See template on Teams
 
 ### 5 PM - Post your proposal on Teams
 
