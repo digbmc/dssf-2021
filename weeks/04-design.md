@@ -48,6 +48,9 @@ Remote
 
 ### All day: project work
 
+### 1:30 PM - Catherine D'Ignazio [LACOL Presentation](https://conferences.hamilton.edu/lacol2021/plenary-speakers#Catherine)
+Zoom link shared on Teams
+
 ---
 
 ## Thursday
@@ -64,11 +67,13 @@ Remote
 
 ### 9:00 AM  Virtual Check-in
 
+### All day: individual project work
+
 ### 1:00 PM  Digital Competencies (optional)
 
 ---
 
-## Data Cleaning tasks
+## Corpus Cleaning tasks
 
 - [ ] Metadata scrape - Al
     - [ ] issue id
