@@ -68,4 +68,23 @@ Remote
 
 ---
 
+## Data Cleaning tasks
+
+- [ ] Metadata scrape - Al
+    - [ ] issue id
+    - [ ] volume #
+    - [ ] date
+    - [ ] Extent (number of pages)
+- [ ] Keyword search template - Marianela
+- [ ] Process corpus for Topic Modeling Tool - Aanandi & Avery
+  - [ ] Split issues into smaller chunks
+  - [ ] Try to approximate articles/paragraphs
+- [ ] Text cleaning
+    - [ ] Get rid of hyphens
+    - [ ] Proportions of non-words
+    - [ ] column errors: identify where they are and how common
+- [ ] Get Letters to the Editor section
+
+---
+
 [<<< Last week](/03-text.md) [Next week >>>]
