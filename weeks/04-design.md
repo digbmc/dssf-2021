@@ -36,6 +36,12 @@ Carpenter
 ### 12:00 PM  Lunch
 
 ### 1:00 PM  Graphic Design Module (Rosemarie)
+[Presentation slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/rfettig_brynmawr_edu/EWHgV1gR5YFPnSvLrOOg6aAB9xT46MM3sJV1SJLOpwu3Mg?e=yNGhrS)
+- Design examples
+1. [Random Embassy](http://www.randomembassy.com/)
+2. [160 over 90](http://160over90.com/)
+3. [Before and After](https://blog.hubspot.com/marketing/tips-designing-effective-visual-content-infographic#sm.00079fh0nxrqf8x11381aojbk1d3q)
+- LinkedIn Learning tutorial: [Learing Graphic Design: Layout](https://www.linkedin.com/learning/learning-graphic-design-layouts/)
 
 *Alice out all day*
 
