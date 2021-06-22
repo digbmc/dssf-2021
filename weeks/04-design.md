@@ -79,7 +79,7 @@ Remote
 
 ---
 
-## Corpus Cleaning tasks
+## Corpus cleaning tasks
 
 - [ ] Metadata scrape - Al
     - [ ] issue id
@@ -98,4 +98,4 @@ Remote
 
 ---
 
-[<<< Last week](/03-text.md) [Next week >>>]
+[<<< Last week](/03-text.md) [Next week >>>](/05-web.md)
