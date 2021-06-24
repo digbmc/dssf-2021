@@ -66,6 +66,8 @@ Zoom link shared on Teams
 ## Thursday
 Carpenter
 
+### All day: College News project work
+
 ### 12:00 PM  Lunch
 
 ### 3:00 PM  Project Meeting 
