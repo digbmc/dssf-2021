@@ -66,9 +66,16 @@ Zoom link shared on Teams
 ## Thursday
 Carpenter
 
+### All day: College News project work
+
 ### 12:00 PM  Lunch
 
-### 3:00 PM  Project Meeting 
+### 3:00 PM  Project Meeting
+- Debrief: what have we accomplished this week?
+- Proposal for College News project elements & visualizations
+  - Review project charter and current milestones
+- Discuss task management styles & preferences
+- Goals for next week
 
 ---
 
