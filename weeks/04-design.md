@@ -94,22 +94,25 @@ Remote
   - [x] Open file(s)
   - [x] Locate keyword
   - [x] Count instances
-  - [ ] extract date from filename
-  - [ ] write csv row
+  - [x] extract date from filename
+  - [x] write csv row
 - [ ] Process corpus for Topic Modeling Tool - Aanandi & Avery
   - [x] Open issues
   - [x] Split issues into smaller chunks
-  - [ ] Saving individual text files of those chunks
+  - [x] Saving individual text files of those chunks
   - [ ] Try to approximate articles/paragraphs
 - [ ] Get Letters to the Editor section - Linda
   - [x] Create regex to capture headlines for section
-  - [ ] Get chunk of text that represents the whole section
+  - [x] Get chunk of text that represents the whole section
   - [ ] Write to csv file
 - [ ] Text cleaning
   - [ ] Get rid of hyphens
   - [ ] Understanding/identifying types of errors
   - [ ] Proportions of non-words
   - [ ] column errors: identify where they are and how common
+  - [ ] long strings of vowels
+- [ ] Viewing data
+  - [ ] Wordclouds per decade - Al
 
 
 ---
