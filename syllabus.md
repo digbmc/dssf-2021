@@ -27,7 +27,7 @@
 - Data storytelling & visualization
 - Critical making
 
-## Week 5 (June 28-July 2) [Web Design & Publishing]
+## Week 5 (June 28-July 2) [Web Design & Publishing](weeks/05-web.md)
 - Responsive design
 - Deployment with Domain of One's Own
 - CMS and web frameworks

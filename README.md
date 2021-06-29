@@ -25,9 +25,9 @@ The digital collection of *The College News*, a Bryn Mawr student publication th
 
 ### Week 4 (June 21-25) [Design & making](weeks/04-design.md)
 
-### Week 5 (June 28-July 2) [Web Design & Publishing]
+### Week 5 (June 28-July 2) [Web Design & Publishing](weeks/05-web.md)
 
-### Week 6 (July 6-9) [Mapping & GIS]
+### Week 6 (July 6-9) [Mapping & GIS](weeks/06-maps.md)
 
 ### Week 7 (July 12-16) [Digital archives & exhibitions]
 
