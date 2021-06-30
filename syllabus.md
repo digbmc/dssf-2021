@@ -33,7 +33,7 @@
 - CMS and web frameworks
 - Web Accessibility
 
-## Week 6 (July 5-9) [Mapping & GIS]
+## Week 6 (July 5-9) [Mapping & GIS](weeks/06-maps.md)
 - Mapping tools
 - GIS data
 - Geospatial analysis

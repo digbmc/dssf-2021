@@ -39,6 +39,7 @@ Remote
 - HTML & CSS review
 - Responsive design & web accessibility
 - Deployment with Domain of One's Own
+- See also: [HTML & CSS workshop](https://github.com/tri-cods/html-css)
 
 ---
 
