@@ -35,6 +35,7 @@ Remote
 ### 9:00 AM Virtual Check-in
 
 ### 1:00 PM - Web Design & Development
+[Slides](https://brynmawr-my.sharepoint.com/:p:/g/personal/amcgrath1_brynmawr_edu/EewJRNA-foFMqz_jrKl4GmABJKg9Gr8xhnncjV2KdrcJpw)
 - HTML & CSS review
 - Responsive design & web accessibility
 - Deployment with Domain of One's Own
@@ -44,12 +45,16 @@ Remote
 ## Thursday
 Carpenter
 
+### AM: Project Work
 
 ### 12:00 PM  Lunch
 
-### 1:00 PM  1-on-1 Meetings (Alice)
-
 ### 3:00 PM  Project Meeting 
+- Milestones/accomplishments for the week
+- Github/code stuff
+- Other business
+
+### 4:00 Small Data Begins! (Rosemarie)
 
 ---
 
