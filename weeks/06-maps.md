@@ -8,7 +8,19 @@
 
 ---
 
-## Monday OFF - Holiday
+## Monday - Holiday (work optional)
+
+*Alice, Rosemarie, and Stella out all day*
+
+If you wish to make up extra hours:
+- You are welcome to work on:
+  - College News project
+  - Individual projects
+  - Your website
+  - Reading/viewing/skills training relevant to these
+- Post to Teams:
+  - When you begin work: what you'll be working on
+  - When you end work: what you've accomplished
 
 ---
 
@@ -25,6 +37,10 @@ Carpenter
 Remote
 
 ### 9:00 AM Virtual Check-in
+
+### 11:00 AM Small Data Meeting
+
+### 3:00 - 3:45 PM: virtual meeting for Digital Competencies Website review project
 
 ---
 
