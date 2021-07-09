@@ -55,6 +55,8 @@ Carpenter
 
 ### 3:00 PM  Project Meeting 
 
+### 4:00 PM Digital Competencies site review
+
 ---
 
 ## Friday

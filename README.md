@@ -29,7 +29,7 @@ The digital collection of *The College News*, a Bryn Mawr student publication th
 
 ### Week 6 (July 6-9) [Mapping & GIS](weeks/06-maps.md)
 
-### Week 7 (July 12-16) [Digital archives & exhibitions]
+### Week 7 (July 12-16) [Digital archives & exhibitions](weeks/07-exhibits.md)
 
 ### Week 8 (July 19-23) [Sustainability & preservation]
 

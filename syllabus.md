@@ -38,7 +38,7 @@
 - GIS data
 - Geospatial analysis
 
-## Week 7 (July 12-16) [Digital exhibitions]
+## Week 7 (July 12-16) [Digital exhibitions](weeks/07-exhibits.md)
 - Timeline, Storymap JS
 - Scalar
 - Digital primary sources
