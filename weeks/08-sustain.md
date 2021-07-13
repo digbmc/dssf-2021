@@ -1,6 +1,6 @@
-# Week X: Focus
+# Week 8: Sustainability
 
-*Dates*
+*July 18-24*
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
@@ -49,4 +49,4 @@ Remote
 
 ---
 
-[<<< Last week](/02-webdev.md) [Next week >>>]()
+[<<< Last week](/07-exhibit.md) [Next week >>>]()

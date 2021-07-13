@@ -6,6 +6,7 @@
 
 ## Week Goals
 
+
 ---
 
 ## Monday - Holiday (work optional)

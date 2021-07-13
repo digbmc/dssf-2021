@@ -6,12 +6,18 @@
 
 ## Week Goals
 
+- [ ] Work plan for tactile viz
+- [ ] MVP drafts of:
+  - [ ] Whole-corpus map visualization
+  - [ ] 1950s-1960s political terms viz
+- [ ] Website: customized structure in place
+
 ---
 
 ## Monday
 Carpenter
 
-### TBD: discussion about making project
+### 1:00 discussion about making project
 
 *Alice out from 2:00 PM*
 
@@ -22,7 +28,10 @@ Carpenter
 
 ### 11:00 AM  Project Meeting
 
-### 1:00 PM Meeting with WBBM Intens
+### 1:00 PM Meeting with WBBM Interns
+In-person gathering in DMCL
+
+
 ---
 
 ## Wednesday
@@ -51,6 +60,7 @@ Remote
 ### 9:00 AM  Virtual Check-in
 
 ### 1:00 PM  Strategic Database Searching - Alex Pfundt
+Link on Teams
 
 ---
 
