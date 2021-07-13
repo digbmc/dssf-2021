@@ -46,6 +46,10 @@ Remote
 ## Thursday
 Carpenter
 
+### (9:30 AM  Keystone DH: Keynote Presentation)
+
+### 10:45 PM  Keystone DH: Natural Language Processing & Text Mining
+
 ### 12:00 PM  Lunch
 
 ### 1:00 PM  1-on-1 Meetings (Alice)
@@ -58,6 +62,8 @@ Carpenter
 Remote
 
 ### 9:00 AM  Virtual Check-in
+
+### 10:45 AM  Keystone DH: Highlighting Underrepresented Voices
 
 ### 1:00 PM  Strategic Database Searching - Alex Pfundt
 Link on Teams
