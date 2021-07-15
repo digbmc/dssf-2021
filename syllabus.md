@@ -43,7 +43,7 @@
 - Scalar
 - Digital primary sources
 
-## Week 8 (July 19-23) [Sustainability & preservation]
+## Week 8 (July 19-23) [Sustainability & preservation](weeks/08-sustain.md)
 - Digital archiving
 - Minimal computing
 
