@@ -6,10 +6,15 @@
 
 ## Week Goals
 
+- [ ] Finish website customization
+- [ ] Write explanations for data viz and other project components
+
 ---
 
 ## Monday
 Carpenter
+
+### 1:00 PM Small Data discussion
 
 ---
 
@@ -17,6 +22,9 @@ Carpenter
 Carpenter
 
 ### 11:00 AM  Project Meeting
+
+### PM: Makerspace
+Work on tactile viz project
 
 ---
 
@@ -32,7 +40,7 @@ Carpenter
 
 ### 10:00 AM 1-on-1 Meetings (Alice)
 
-### 12:00 PM  Lunch
+### 12:00 PM - 2:00 PM LITS Staff Gathering
 
 ### 1:00 PM  1-on-1 Meetings (Alice)
 
@@ -49,4 +57,4 @@ Remote
 
 ---
 
-[<<< Last week](/07-exhibit.md) [Next week >>>]()
+[<<< Last week](/07-exhibit.md) [Next week >>>](/09-user.md)

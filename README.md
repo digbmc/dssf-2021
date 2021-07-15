@@ -31,7 +31,7 @@ The digital collection of *The College News*, a Bryn Mawr student publication th
 
 ### Week 7 (July 12-16) [Digital archives & exhibitions](weeks/07-exhibits.md)
 
-### Week 8 (July 19-23) [Sustainability & preservation]
+### Week 8 (July 19-23) [Sustainability & preservation](weeks/08-sustain.md)
 
 ### Week 9 (July 26-30) [User design & testing]
 
