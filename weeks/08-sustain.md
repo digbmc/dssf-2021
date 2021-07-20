@@ -21,7 +21,18 @@ Carpenter
 ## Tuesday
 Carpenter
 
-### 11:00 AM  Project Meeting
+### 11:30 AM  Project Meeting
+- Alumnae presentation - recording?
+- Minimal computing & Jekyll
+  - Resources: 
+  - [About Minimal Computing](https://go-dh.github.io/mincomp/about/)
+  - [Alex Gil, "Design for Diversity: The Case of Ed"](https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/) (from the [Design for Diversity Learning Toolkit](https://des4div.library.northeastern.edu/))
+- Discussing College News Website
+  - Links: [Front end](https://digbmc.github.io/coll-news-site/), [Back end](https://github.com/digbmc/coll-news-site)
+  - What do users need to know to understand our data?
+  - What do users need to know to use our data?
+  - Content & design plans?
+- Making project updates (Aanandi & Avery)
 
 ### PM: Makerspace
 Work on tactile viz project

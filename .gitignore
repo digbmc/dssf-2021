@@ -1,2 +1,4 @@
 .DS_Store
 dssf.code-workspace
+_site/
+.jekyll-cache/
