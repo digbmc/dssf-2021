@@ -1,6 +1,6 @@
 # Week 8: Sustainability
 
-*July 18-24*
+*July 19o66i-24*
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
