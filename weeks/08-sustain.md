@@ -1,6 +1,6 @@
 # Week 8: Sustainability
 
-*July 19o66i-24*
+*July 19-24*
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
@@ -68,4 +68,4 @@ Remote
 
 ---
 
-[<<< Last week](/07-exhibit.md) [Next week >>>](/09-user.md)
+[<<< Last week](/07-exhibit.md) [Next week >>>](/09-testing.md)

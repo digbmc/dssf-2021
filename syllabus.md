@@ -47,14 +47,8 @@
 - Digital archiving
 - Minimal computing
 
-## Week 9 (July 26-30) [User design & testing]
+## Week 9 (July 26-30) [User design & testing](weeks/09-testing.md)
+- Web accessibility
+- Website review
 
-## Week 10 (August 3-6) [Project wrap-up]
-
-<!--
-- Principles of Web Design
-- HTML
-- CSS
-- Domain of One's Own
-- Web Accessibility
--->
+## Week 10 (August 3-6) [Project wrap-up](weeks/10-end.md)
