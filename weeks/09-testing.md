@@ -9,6 +9,7 @@
 - [ ] Finish website draft
 - [ ] Final draft of individual projects
 - [ ] User testing & feedback
+- [ ] Peer presentation Thursday 7/29
 
 
 ---
@@ -37,7 +38,9 @@ Teams
 ## Wednesday
 Remote
 
-### 9:00 AM Virtual Check-in
+### 9:00 AM Virtual Check-in (Stella)
+
+### 3:30 Quick virtual check-in (Alice)
 
 ---
 
@@ -47,6 +50,7 @@ Carpenter
 ### 12:00 PM  Lunch
 
 ### 2:00 PM Intern Presentations
+Carpenter B21 & B25
 
 ### 3:45 PM Project Meeting 
 
