@@ -1,10 +1,14 @@
-# Week X: Focus
+# Week 10: Conclusion
 
-*Dates*
+*August 2-6*
 
 [Monday](#monday) // [Tuesday](#tuesday) // [Wednesday](#wednesday) // [Thursday](#thursday) // [Friday](#friday)
 
 ## Week Goals
+- [ ] Complete project!
+- [ ] Revisions and testing
+- [ ] Alumnae presentation 8/6
+- [ ] Celebrate!
 
 ---
 
@@ -18,12 +22,16 @@ Carpenter
 
 ### 11:00 AM  Project Meeting
 
+*Alice out 2-4*
+
 ---
 
 ## Wednesday
 Remote
 
 ### 9:00 AM Virtual Check-in
+
+*Alice in meetings in AM, out from 2 PM*
 
 ---
 
@@ -41,11 +49,12 @@ Carpenter
 ---
 
 ## Friday
-Remote
+Carpenter
 
-### 9:00 AM  Virtual Check-in
+### 9:00 AM  Check-in
 
-### 1:00 PM  Digital Competencies (optional)
+### 2:00 PM  Reunion Presentation
+Dalton 300
 
 ---
 
