@@ -15,12 +15,18 @@
 ## Monday
 Carpenter
 
+### 2:30 PM Maker Space
+- 2:30 pm Tactile Project Work
+- 4:00 pm Soldering Demo
+
 ---
 
 ## Tuesday
 Carpenter
 
 ### 11:00 AM  Project Meeting
+
+### 1:00 PM Maker Space
 
 *Alice out 2-4*
 
@@ -31,6 +37,12 @@ Remote
 
 ### 9:00 AM Virtual Check-in
 
+### 10:00 AM  Maker Space
+
+### 12:00 PM  Lunch
+
+### 3:00 PM Maker Space
+
 *Alice in meetings in AM, out from 2 PM*
 
 ---
@@ -39,6 +51,8 @@ Remote
 Carpenter
 
 ### 10:00 AM 1-on-1 Meetings (Alice)
+
+### 10:00 AM  Maker Space
 
 ### 12:00 PM  Lunch
 
@@ -52,6 +66,8 @@ Carpenter
 Carpenter
 
 ### 9:00 AM  Check-in
+
+### 10:00 AM  Maker Space
 
 ### 2:00 PM  Reunion Presentation
 Dalton 300
