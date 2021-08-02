@@ -15,7 +15,10 @@
 ## Monday
 Carpenter
 
-### 2:30 - 3:30 Makerspace soldering demo
+### 1:00 PM Web Accesibility & Testing (Alice)
+
+### 4:00 PM Makerspace
+- Soldering Demo
 
 ---
 
@@ -24,7 +27,9 @@ Carpenter
 
 ### 11:00 AM  Project Meeting
 
-*Alice in meetings 2-4*
+### 1:00 PM Makerspace
+
+*Alice out 2-4*
 
 ---
 
@@ -32,6 +37,12 @@ Carpenter
 Remote
 
 ### 9:00 AM Virtual Check-in
+
+### 10:00 AM  Makerspace
+
+### 12:00 PM  Lunch
+
+### 3:00 PM Makerspace
 
 *Alice in meetings in AM, out from 2 PM*
 
@@ -41,6 +52,8 @@ Remote
 Carpenter
 
 ### 10:00 AM 1-on-1 Meetings (Alice)
+
+### 10:00 AM  Makerspace
 
 ### 12:00 PM  Lunch
 
@@ -54,6 +67,8 @@ Carpenter
 Carpenter
 
 ### 9:00 AM  Check-in
+
+### 10:00 AM  Makerspace
 
 ### 2:00 PM  Reunion Presentation
 Dalton 300
