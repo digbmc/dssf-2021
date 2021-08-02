@@ -15,9 +15,8 @@
 ## Monday
 Carpenter
 
-### 2:30 PM Maker Space
-- 2:30 pm Tactile Project Work
-- 4:00 pm Soldering Demo
+### 4:00 PM Maker Space
+- Soldering Demo
 
 ---
 
