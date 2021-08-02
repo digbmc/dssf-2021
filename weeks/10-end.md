@@ -15,6 +15,8 @@
 ## Monday
 Carpenter
 
+### 2:30 - 3:30 Makerspace soldering demo
+
 ---
 
 ## Tuesday
@@ -22,7 +24,7 @@ Carpenter
 
 ### 11:00 AM  Project Meeting
 
-*Alice out 2-4*
+*Alice in meetings 2-4*
 
 ---
 
