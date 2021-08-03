@@ -59,6 +59,8 @@ Carpenter
 
 ### 1:00 PM  1-on-1 Meetings (Alice)
 
+### 2:00 PM Presentation Rehearsal
+
 ### 3:00 PM  Project Meeting 
 
 ---
